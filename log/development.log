@@ -1,4 +1,4 @@
-Started GET "/" for ::1 at 2022-03-24 06:08:04 +0200
+Started GET "/" for 127.0.0.1 at 2022-03-24 14:28:09 +0200
   
 ActiveRecord::NoDatabaseError (We could not find your database: foodlog_development. Which can be found in the database configuration file located at config/database.yml.
 
